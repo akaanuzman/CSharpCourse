@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\bin\Debug\DamaDesk.exe.config
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\bin\Debug\DamaDesk.exe
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\bin\Debug\DamaDesk.pdb
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.csprojAssemblyReference.cache
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.Form1.resources
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.Properties.Resources.resources
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.csproj.GenerateResource.cache
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.exe
+C:\Users\user\Desktop\fuck you dude\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.pdb
+C:\Users\Archeva\Desktop\all\programming\languages\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.exe
+C:\Users\Archeva\Desktop\all\programming\languages\c#\CSharpCourse\DamaDesk\obj\Debug\DamaDesk.pdb

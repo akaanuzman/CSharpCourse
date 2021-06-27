@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwuZUDGahZ4FpcFEw+h/OJk+OxQV6D9OOmJKQ/Sd9K4QxlODvZYnAEt32b3lxvzAGGshDYc1LMq16/A5kKRW0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\fuck you dude\\c#\\CSharpCourse\\arrays\\arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
